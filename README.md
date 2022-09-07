@@ -1,2 +1,2 @@
 # GSAP-Basics
-Usage of Teens and Timelines in GSAP.
+Usage of Tweens and Timelines in GSAP.
